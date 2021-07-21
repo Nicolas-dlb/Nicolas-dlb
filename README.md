@@ -1,16 +1,24 @@
-### Hi there 👋
+### Bonjour et bienvenue 👋
 
-<!--
-**Nicolas-dlb/Nicolas-dlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bonjour et bienvenue ! 👋
+Vous voici chez moi, dans mon laboratoire rempli de mes expérimentations et expériences. Malheureusement vous ne pourrez pas voir ma plus grande réussite car il s'agit d'un projet top secret 🚫.
 
-Here are some ideas to get you started:
+📫 Comment me contacter : [LinkedIn](www.linkedin.com/in/nicolasdlb)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🦥 Qui suis-je ?
+Je suis une développeur passionnée, déterminé et investi. Je travaille sur des projets qui me parlent, dans des équipes bienveillantes où exigeance rime avec bonne ambiance.
+
+J'ai eu l'occasion de faire mes armes à l'université de Lille dans laquelle j'ai pu participer à la naissance d'un très beau projet autant d'un point de vue de l'élaboration que de sa construction.
+
+### Mes compétences
+#### Techniques
+🔭 Les technos avec lesquelles je travaille:
+
+ 
+React  
+Redux  
+Typescript  
+NodeJS  
+Jest  
+Cypress  
+
