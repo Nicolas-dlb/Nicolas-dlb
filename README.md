@@ -1,4 +1,4 @@
-<img src="readme_banner.jpg" />
+<!-- <img src="readme_banner.jpg" /> -->
 
 ### Bonjour et bienvenue 👋
 
