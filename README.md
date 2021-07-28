@@ -21,5 +21,5 @@ React
 Redux  
 Typescript  
 NodeJS  
-Jest/Enzyme 
+Jest/Enzyme  
 Firebase
