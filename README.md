@@ -2,8 +2,7 @@
 
 ### Bonjour et bienvenue 👋
 
-Bonjour et bienvenue ! 👋
-Vous voici chez moi, dans mon laboratoire rempli de mes expérimentations et expériences. Malheureusement vous ne pourrez pas voir ma plus grande réussite car il s'agit d'un projet top secret 🚫.
+Vous voici chez moi, dans mon laboratoire.
 
 📫 Comment me contacter : [LinkedIn](www.linkedin.com/in/nicolasdlb)
 
