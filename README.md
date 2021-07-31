@@ -1,6 +1,8 @@
-<!-- <img src="readme_banner.jpg" /> -->
+ <img src="banner.jpg" />
+ 
+ Je suis un développeur passionné par la réalistion et le développement de projets web. J'aime travailler avec des technologies comme ReactJs en Jamstack (JavaScript, APIs + Markup) et Redux.
 
-### Bonjour et bienvenue 👋
+<!-- ### Bonjour et bienvenue 👋
 
 Vous voici chez moi, dans mon laboratoire.
 
@@ -22,3 +24,4 @@ Typescript
 NodeJS  
 Jest/Enzyme  
 Firebase
+ -->
