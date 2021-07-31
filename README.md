@@ -1,4 +1,4 @@
- <img src="banner.jpg" />
+ <img src="bannner.jpg" />
  
  Je suis un développeur passionné par la réalistion et le développement de projets web. J'aime travailler avec des technologies comme ReactJs en Jamstack (JavaScript, APIs + Markup) et Redux.
 
