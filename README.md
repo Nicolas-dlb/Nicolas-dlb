@@ -1,5 +1,5 @@
 ### Hi, I'm Nicolas 👋
-<img src="bannner.jpg" />
+<img src="banneer.jpg" />
  
  Je suis un développeur passionné par la réalisation et le développement de projets web. J'aime travailler avec des technologies comme ReactJs en Jamstack (JavaScript, APIs + Markup) et Redux.
  
