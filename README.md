@@ -5,7 +5,7 @@
  
 <!--  J'ai eu l'occasion de faire mes armes à l'université de Lille où j'ai participé à un projet de gestionnaire de réservation de salles de travail au sein de la bibliothéque universitaire. -->
  
-📫 Comment me contacter : [LinkedIn](www.linkedin.com/in/nicolasdlb)
+📫 Comment me contacter : [LinkedIn](https://www.linkedin.com/in/nicolasdlb)
 <!-- ### Bonjour et bienvenue 👋
 
 Vous voici chez moi, dans mon laboratoire.
