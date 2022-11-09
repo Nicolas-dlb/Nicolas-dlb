@@ -2,10 +2,11 @@
 
 #### Je suis développeur front-end basé à Lille, France.
 
+
 ##### BIO
  
  * ⚙️  Stack technique : `.jsx` `.ts` `.js`  
- * 🌱  Intérressé par tout ce qui concerne l'ecosysteme react
+ * 🌱  Intéressé par tout ce qui concerne l'écosystème react
  * 📫  Contact : [linkedin.com/nicolasdlb](https://www.linkedin.com/in/nicolasdlb)
  
  <!--J'aime travailler avec des technologies comme ```react``` en Jamstack (JavaScript, APIs + Markup) et Redux. -->
