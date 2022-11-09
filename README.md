@@ -1,6 +1,5 @@
-### Hi, I'm Nicolas 👋
-<img src="banneer.jpg" />
- 
+### Salut ! 👋
+
  Je suis un développeur passionné par la réalisation et le développement de projets web. J'aime travailler avec des technologies comme ReactJs en Jamstack (JavaScript, APIs + Markup) et Redux.
  
 <!--  J'ai eu l'occasion de faire mes armes à l'université de Lille où j'ai participé à un projet de gestionnaire de réservation de salles de travail au sein de la bibliothéque universitaire. -->
