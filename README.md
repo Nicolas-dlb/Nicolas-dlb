@@ -6,7 +6,7 @@
  
  * ⚙️  Stack technique : `.jsx` `.ts` `.js`  
  * 🌱  Intérressé par tout ce qui concerne l'ecosysteme react
- * 📫 Comment me contacter : [LinkedIn](https://www.linkedin.com/in/nicolasdlb)
+ * 📫  Contact : [linkedin.com/nicolasdlb](https://www.linkedin.com/in/nicolasdlb)
  
  <!--J'aime travailler avec des technologies comme ```react``` en Jamstack (JavaScript, APIs + Markup) et Redux. -->
  
