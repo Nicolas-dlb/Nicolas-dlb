@@ -1,6 +1,6 @@
 ### Salut 👋
 
-#### Je suis développeur front-end passioné par la réalisation d'applications web.
+#### Je suis développeur front-end passioné par la création d'applications web.
 
 
 ##### BIO
