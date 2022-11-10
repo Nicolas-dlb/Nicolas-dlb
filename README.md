@@ -1,6 +1,6 @@
 ### Salut 👋
 
-#### Je suis développeur front-end basé à Lille, France.
+#### Je suis développeur front-end passioné par la réalisation d'applications web.
 
 
 ##### BIO
