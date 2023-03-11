@@ -1,4 +1,4 @@
-### Salut 👋
+### Bonjour,
 
 #### Je suis développeur front-end passioné par la création d'applications web.
 
